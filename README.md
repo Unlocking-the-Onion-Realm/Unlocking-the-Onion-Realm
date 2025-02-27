@@ -53,8 +53,9 @@ Join me on this exhilarating journey!
 
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Unlocking-the-Onion-Realm&style=flat-square&color=blueviolet" alt="Profile Views">
+  <img src="https://img.shields.io/badge/Profile%20Views-15746-blueviolet" alt="Profile Views">
 </p>
+
 
 <!-- My Stats -->
 <h2 align="center">📈 My Stats</h2>
