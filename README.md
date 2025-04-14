@@ -53,7 +53,7 @@ Join me on this exhilarating journey!
 
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-35471-blueviolet" alt="Profile Views">
+  <img src="https://img.shields.io/badge/Profile%20Views-39127-blueviolet" alt="Profile Views">
 </p>
 
 
